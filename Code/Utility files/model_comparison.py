@@ -22,7 +22,7 @@ import statsmodels.api as sm
 
 class CrossValidation:
     """
-    Class to perform cross-validation on a list of DataFrames using Weighted Least Squares (WLS) regression.
+    Class to perform a WLS regression analysis and produce model comparison metrics.
     
     The class allows fitting WLS models, performing cross-validation, and calculating various metrics 
     such as RMSE, R2, AIC, BIC, and correlation coefficients. It also supports plotting residuals 
