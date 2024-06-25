@@ -6,9 +6,8 @@ Liv Tollånes (201905665)
 
 1. [Project Description](#1-project-description)
 2. [Repository Structure](#2-repository-structure)
-3. [Contributing](#3-contributing)
-4. [License](#4-license)
-5. [Contact Information](#5-contact-information)
+3. [Data](#3-data)
+4. [Contact Information](#4-contact-information)
 
 ## 1. Project Description
 
@@ -32,8 +31,6 @@ Detailed information about your project, why it exists, and what it aims to solv
 ├── pyproject.toml
 └── requirements_backup.txt
 ```
-## 3. Contributing
+## 3. Data
 
-## 4. License
-
-## 5. Contact Information
+## 4. Contact Information
