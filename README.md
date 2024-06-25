@@ -1,16 +1,16 @@
-# Project Title
+# Master's Thesis Cognitive Science, Summer 2024 
 
-A brief description of what your project does and its purpose.
+Liv Tollånes (201905665)
 
 ## Table of Contents
 
-1. [Description](#1-description)
+1. [Description](#1-project-description)
 2. [Repository Structure](#2-repository-structure)
 3. [Contributing](#3-contributing)
 4. [License](#4-license)
 5. [Contact Information](#5-contact-information)
 
-## 1. Description
+## 1. Project Description
 
 Detailed information about your project, why it exists, and what it aims to solve. Include any important background information.
 
