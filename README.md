@@ -4,11 +4,11 @@ Liv Tollånes (201905665)
 
 ## Table of Contents
 
-1. [Description](#1-project-description)
-2. [Repository Structure](#2-repository-structure)
-3. [Contributing](#3-contributing)
-4. [License](#4-license)
-5. [Contact Information](#5-contact-information)
+1. [Project Description](#project-description)
+2. [Repository Structure](#repository-structure)
+3. [Contributing](#contributing)
+4. [License](#license)
+5. [Contact Information](#contact-information)
 
 ## 1. Project Description
 
