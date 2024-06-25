@@ -3,6 +3,7 @@
 
 
 # Repository Structure
+```
 ├── Graph preparation
 │   └── Wrangling2.ipynb
 ├── Utility files
@@ -17,3 +18,4 @@
 ├── poetry.lock
 ├── pyproject.toml
 └── requirements_backup.txt
+```
