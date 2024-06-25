@@ -4,11 +4,11 @@ A brief description of what your project does and its purpose.
 
 ## Table of Contents
 
-1. [Description](##Description)
-2. [File Structure](#R#epository-Structure)
-3. [Contributing](##Contributing)
-4. [License](##License)
-5. [Contact Information](##Contact-Information)
+1. [Description](#Description)
+2. [File Structure](#Repository-Structure)
+3. [Contributing](#Contributing)
+4. [License](#License)
+5. [Contact Information](#Contact-Information)
 
 ## 1. Description
 
